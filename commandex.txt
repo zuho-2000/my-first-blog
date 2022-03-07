@@ -5,3 +5,26 @@ myvtu\Scripts\activate
 サーバーの起動
 
 python manage.py runserver
+
+
+gitの確認
+
+git status
+
+gitの変更の記録
+
+git add --all .
+
+変更履歴の内容記録
+
+git commit -m "ここはコメントをつける"
+
+gitに送る
+
+git push
+
+
+PythonAnywhereでgitに受け取る
+
+cd ~/kazu2000.pythonanywhere.com
+git pull
