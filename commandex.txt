@@ -8,6 +8,10 @@ myvtu\Scripts\activate
 python manage.py runserver
 
 
+gitの初期設定
+
+git init
+
 gitの確認
 
 git status
